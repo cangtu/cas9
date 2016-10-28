@@ -20,3 +20,11 @@ mvn test
 ```shell
 mvn clean compile assembly:single
 ```
+
+##  运行
+```shell
+java -jar -i cas9-demo.csv -c demo.conf -t 10
+```
+## 
+
+[文档](tps://github.com/cangtu/cas9/wiki)
