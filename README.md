@@ -29,5 +29,5 @@ java -jar -i cas9-demo.csv -c demo.conf -t 10
 
 ## 
 
-[文档](tps://github.com/cangtu/cas9/wiki)
+[文档](https://github.com/cangtu/cas9/wiki)
 
